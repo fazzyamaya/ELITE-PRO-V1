@@ -3,14 +3,14 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
-global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
-global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
-global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
+global.ytname = process.env.YT_NAME || "TT: @PRECIOUSLOVESEDITZ";
+global.socialm = process.env.SOCIAL_M || "GitHub: Fazzyamaya";
+global.location = process.env.LOCATION || "Nigeria, OGUN STATE";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '2348109263390';
-global.ownername = process.env.OWNER_NAME || 'ElitePro';
-global.botname = process.env.BOT_NAME || 'ELITE-PRO-V1';
+global.ownernumber = process.env.OWNER_NUMBER || '2349075387568';
+global.ownername = process.env.OWNER_NAME || 'PRECIOUS-BOT-V1';
+global.botname = process.env.BOT_NAME || 'PRECIOUS-BUG-BOTV1';
 
 // Default settings 
 global.prefix = process.env.PREFIX || '.';
